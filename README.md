@@ -1,1 +1,1 @@
-Testing out stuff
+Little cheatsheet and refresh of HTML, CSS and JS. Mostly following the odin project 
